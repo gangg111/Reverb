@@ -1,5 +1,9 @@
 # OmniVoice Mobile
 
+<p align="center">
+  <img src="screen.jpg" alt="Ekran apki OmniVoice Mobile" width="320">
+</p>
+
 Polskie (i 6 innych języków) TTS z klonowaniem głosu, działające w całości na telefonie — model
 [Reverb-TTS](https://huggingface.co/software-mansion/Reverb-TTS) (Software Mansion, fine-tune OmniVoice)
 liczony na NPU Hexagon (Qualcomm QNN), dekoder audio na CPU.
